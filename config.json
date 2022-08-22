@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["628975217200@s.whatsapp.net","628975217200@s.whatsapp.net"],
+    "ownerName": "𝙸'𝚖 𝚆𝚊𝚗𝚍𝚊 𝙿𝚛𝚊𝚜𝚎𝚝𝚢𝚊",
+    "instagram" : "https://instagram.com/wnd.prfct",
+    "botName": "sᴀɴs ʙᴏᴛ",
+    "footer": "𝙿𝚎𝚛𝚗𝚊𝚑 𝙱𝚎𝚛𝚌𝚒𝚗𝚝𝚊,𝚃𝚊𝚙𝚒 𝚃𝚊𝚔 𝙿𝚎𝚛𝚗𝚊𝚑  𝙳𝚒 𝙰𝚗𝚐𝚐𝚊𝚙,,𝙳𝚊𝚗 𝙶𝚊 𝙿𝚎𝚛𝚗𝚊𝚑 𝙳𝚒 𝙱𝚊𝚗𝚐𝚐𝚊 𝙸𝚗,,𝙼𝚊𝚜𝚒𝚑 𝙺𝚊𝚕𝚊𝚑 𝚂𝚊𝚖𝚊 𝙼𝚊𝚗𝚝𝚊𝚗 𝙽𝚢𝚊",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "𝚆𝙰𝙽𝙳𝙰 𝙶𝙰𝙽𝚂",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 10
+    }
+}
